@@ -55,9 +55,9 @@ _이텔릭_
 
 ![]()
 
-![HEROPY](https://i.namu.wiki/i/nlaugqUPYJEWizcndSc3CBKEDVFaqEVMfj-HFlXY_Z2-9uk8uTJggtxekS_o22lSM30f8HhTa0E61oBuHp2bWw.webp)
+![Tortoise](https://i.namu.wiki/i/nlaugqUPYJEWizcndSc3CBKEDVFaqEVMfj-HFlXY_Z2-9uk8uTJggtxekS_o22lSM30f8HhTa0E61oBuHp2bWw.webp)
 
-[![HEROPY](https://i.namu.wiki/i/nlaugqUPYJEWizcndSc3CBKEDVFaqEVMfj-HFlXY_Z2-9uk8uTJggtxekS_o22lSM30f8HhTa0E61oBuHp2bWw.webp)](https://namu.wiki/w/거북)
+[![Tortoise](https://i.namu.wiki/i/nlaugqUPYJEWizcndSc3CBKEDVFaqEVMfj-HFlXY_Z2-9uk8uTJggtxekS_o22lSM30f8HhTa0E61oBuHp2bWw.webp)](https://namu.wiki/w/거북)
 
 # 인용문(BlockQuote)
 
